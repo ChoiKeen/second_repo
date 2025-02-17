@@ -4,6 +4,9 @@
 - 나이 : 29
 - 사는곳 : 경기도 김포시
 
+## 직업
+- 무직
+
 ## 취미
 - 음악감상(K-POP, J-POP, POP)
 - 유튜브 감상
@@ -14,24 +17,25 @@
 - 재택근무
 
 ## 공부한 프로그래밍 언어
-### C
+### 기술스택
+#### C
 ```C
 printf('Hello World')
 scanf_s('%d', '나이를 입력하세요 : ')
 ```
 
-### DBMS
+#### DBMS
 ```DBMS
 MySQL
 ```
 
-### Python
+#### Python
 ```python
 print('Hello Python')
 input('나이를 입력하세요 : ')
 ```
 
-### AWS
+#### AWS
 - 현재 진행중
 
 ## 목표
